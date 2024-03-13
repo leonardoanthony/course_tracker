@@ -1,70 +1,34 @@
 {
     "cursos": [
       {
-        "nome": "NodeJS",
+        "nome": "JS Expert",
         "origem": "Erick Wendel",
-        "aulas": 250,
-        "assistidas": 30
+        "aulas": 85,
+        "assistidas": 0
+      },
+      {
+        "nome": "NodeJS",
+        "origem": "Rocketseat",
+        "aulas": 537,
+        "assistidas": 0
+      },
+      {
+        "nome": "FrontPush",
+        "origem": "Nasser Youssef",
+        "aulas": 367,
+        "assistidas": 0
+      },
+      {
+        "nome": "Programação",
+        "origem": "Filipe Deschamps",
+        "aulas": 77,
+        "assistidas": 0
       },
       {
         "nome": "ReactJS",
         "origem": "Rocketseat",
-        "aulas": 200,
-        "assistidas": 50
-      },
-      {
-        "nome": "Python",
-        "origem": "Curso em Vídeo",
-        "aulas": 180,
-        "assistidas": 80
-      },
-      {
-        "nome": "Java",
-        "origem": "Alura",
-        "aulas": 220,
-        "assistidas": 100
-      },
-      {
-        "nome": "Machine Learning",
-        "origem": "Coursera",
-        "aulas": 300,
-        "assistidas": 150
-      },
-      {
-        "nome": "HTML5",
-        "origem": "freeCodeCamp",
-        "aulas": 150,
-        "assistidas": 60
-      },
-      {
-        "nome": "CSS3",
-        "origem": "MDN Web Docs",
-        "aulas": 120,
-        "assistidas": 40
-      },
-      {
-        "nome": "JavaScript",
-        "origem": "Codecademy",
-        "aulas": 180,
-        "assistidas": 70
-      },
-      {
-        "nome": "SQL",
-        "origem": "Khan Academy",
-        "aulas": 160,
-        "assistidas": 90
-      },
-      {
-        "nome": "Vue.js",
-        "origem": "Vue Mastery",
-        "aulas": 180,
-        "assistidas": 50
-      },
-      {
-        "nome": "Angular",
-        "origem": "Udemy",
-        "aulas": 220,
-        "assistidas": 70
+        "aulas": 489,
+        "assistidas": 0
       }
     ]
   }

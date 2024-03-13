@@ -59,7 +59,7 @@
     <script>
 
         async function recuperaCurso(){
-            const {cursos} = await (await fetch(`${window.location}/cursos.json`)).json();
+            const {cursos} = await (await fetch(`https://leonardoanthony.free.nf/teste_api.php`)).json();
             cursos.sort((a, b) => (b.assistidas * 100) / b.aulas - (a.assistidas * 100) / a.aulas);
             return cursos;
         }
