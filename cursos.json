@@ -1,6 +1,12 @@
 {
     "cursos": [
       {
+        "nome": "Api NodeJS",
+        "origem": "Erick Wendel",
+        "aulas": 85,
+        "assistidas": 51
+      },
+      {
         "nome": "JS Expert",
         "origem": "Erick Wendel",
         "aulas": 85,
