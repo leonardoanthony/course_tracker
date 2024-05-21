@@ -10,13 +10,13 @@
         "nome": "JS Expert",
         "origem": "Erick Wendel",
         "aulas": 85,
-        "assistidas": 0
+        "assistidas": 16
       },
       {
         "nome": "NodeJS",
         "origem": "Rocketseat",
         "aulas": 537,
-        "assistidas": 0
+        "assistidas": 1
       },
       {
         "nome": "FrontPush",
